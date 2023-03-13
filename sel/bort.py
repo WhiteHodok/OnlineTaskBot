@@ -36,7 +36,7 @@ def get_schedule():
     return schedule
 
 
-bot_token = '6296990154:AAErRKtl2tZQY40Sw6x1U2PJevED53imAkE'
+bot_token = ''
 bot = Bot(token=bot_token)
 dispatcher = Dispatcher(bot)
 
